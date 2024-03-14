@@ -3,7 +3,7 @@
 ### Projects
 
 * AIHealth
-  * radiology-simulator (Radiology Simulator) - To simulate radiology scanners like X-ray, CT, generating DICOM data, and sending it to PACS parameterized into a .env file.
+  * [radiology-simulator](airflowbr/radiology-simulator) (Radiology Simulator) - To simulate radiology scanners like X-ray, CT, generating DICOM data, and sending it to PACS parameterized into a .env file.
   * aihealth-frontend (Frontend)
   * aihealth-backend (Backend)
   * aihealth-compute (Compute Node) - To communicate with the backend, process inputs for training or prediction, sending information back.
