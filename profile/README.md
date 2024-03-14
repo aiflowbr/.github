@@ -1,4 +1,9 @@
-## Hi there 👋
+## AIFlowBR
+
+### Projects
+
+* AIHealth
+  * radiology-simulator (Radiology Simulator) - to simulate radiology scanners like X-ray, CT, generating DICOM data, and sending it to PACS parameterized into a .env file.
 
 <!--
 
